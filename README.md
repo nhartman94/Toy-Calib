@@ -1,6 +1,6 @@
 # Toy-Calib
 
-## Study 1: LR calibration to 
+## Study 1: Likelihood Ratio calibration 
 
 Building up a soltuion... there's q a bit of duplicated code, just b/c I was trying to cross check each step
 
